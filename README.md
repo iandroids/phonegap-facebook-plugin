@@ -1,4 +1,4 @@
-# Apache Cordova Facebook Plugin
+# Apache Cordova [Facebook](https://aapks.com/apk/facebook/) Plugin
 
 This is the official plugin for Facebook in Apache Cordova/PhoneGap!
 
